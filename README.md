@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @assalameslmani
+- 👋 Hi, 
 - 👀 My name is Assala Meslmani
 - I'm  studying MIS in UL
 - I'm a junior web developer
